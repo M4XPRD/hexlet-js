@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "project mind games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4XPRD/hexlet-js.git"
+  },
+  "author": "maxprd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4XPRD/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/M4XPRD/hexlet-js#readme"
+}
